@@ -28,3 +28,7 @@ a "Clean Architecture" design philosophy - but this is not mandatory.**
 As a Tech Lead I want to be able to easy replace 
 current ExternalPaymentGateway1 with a other ExternalPaymentGateway2 
 without any or significant changes in a core business logic.
+
+## Run Tests
+
+```vendor/bin/phpunit```
