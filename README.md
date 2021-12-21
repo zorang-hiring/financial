@@ -23,7 +23,7 @@ a "Clean Architecture" design philosophy - but this is not mandatory.**
    3rd party Payment Gateway (check ExternalPaymentGateway1 interface)
    using a Credit Card I stored in the system.
 
-## Additional architecture details:
+## Additional architecture requirement:
 
 As a Tech Lead I want to be able to easy replace 
 current ExternalPaymentGateway1 with a other ExternalPaymentGateway2 
